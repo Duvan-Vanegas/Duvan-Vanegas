@@ -44,13 +44,12 @@
 </div>
 <br/>
 
-<h2 align="center"> Social Networks </h2>
+<h2 align="center"> Contact me </h2>
 
-<div align="center"> 
-<a href="https://linkedin.com/in/duvan-vanegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duvan-vanegas" height="30" width="40" /></a>
-<a href="https://instagram.com/duvan__vanegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duvan__vanegas" height="30" width="40" /></a>
-<a href="https://www.behance.net/lineup1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lineup1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@DuvanVanegas741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="duvanvanegas741" height="30" width="40" /></a>
+<div align="center">
+  <a href="https://linktr.ee/Duvan__Vanegas" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
 </div>
 <br/>
 
