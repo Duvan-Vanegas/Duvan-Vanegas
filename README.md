@@ -16,7 +16,7 @@
 
  💬 Ask me about **Software Development or anything [here](https://github.com/Duvan-Vanegas)**
 
- ❤️ I like **producing music**
+ ❤️ I love **producing music and programming**
 
  </div>
 
@@ -38,8 +38,9 @@
 <h2 align="center">Languages | Frameworks | Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,github,cs,git,ps,xd&theme=dark"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=pug,react,vscode,php,laravel,python,java,mysql,figma&theme=dark"/><br>
 </div>
 <br/>
 <hr/>
