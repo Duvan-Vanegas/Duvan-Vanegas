@@ -21,7 +21,7 @@
  </div>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/duvan__vanegas/" target="_blank">
+  <a href="https://www.instagram.com/duvanonthebeat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&color=7743db&logo=instagram&logoColor=white" height="32" target="_blank"/>
   </a>
   <a href="mailto:duvan.vanegas741@pascualbravo.edu.co">
