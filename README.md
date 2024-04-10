@@ -47,7 +47,7 @@
 <h2 align="center"> Contact me </h2>
 
 <div align="center">
-  <a href="https://linktr.ee/Duvan__Vanegas" target="_blank">
+  <a href="https://linktr.ee/duvanonthebeat" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
