@@ -1,48 +1,59 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&color=7743DB&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duván+Vanegas!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&color=7743DB&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duván+Vanegas!;👉+I’m+a+Data+Engineer" />
 </h1>
 
 <h3 align="center">
-  A passionate about software developement, musical production and design, I'm from Colombia 🇨🇴 
+ 🎵 Code. Data. Music. Design. 🇨🇴 Colombia.
 </h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **personal projects**
- 
- 🌱 I’m currently learning **React, JavaScript, Node Js and other technologies**
+  <img src="https://komarev.com/ghpvc/?username=Duvan-Vanegas&color=blueviolet" />
+</div>
+<br/>
+<div align="center">
+  
+🔭 Currently working at Hospital Alma Máter de Antioquia, building and optimizing data-driven solutions for healthcare environments.
 
- 💬 Ask me about **Software Development or anything [here](https://github.com/Duvan-Vanegas)**
+🌱 Currently expanding my skills in React, Node.js, and modern backend architectures to bridge data engineering with full-stack capabilities.
 
- ❤️ I love **producing music and programming**
+❤️ Passionate about music production and programming — blending creativity and technology to build meaningful solutions.
+
+☁️ Azure | 📊 Data Engineering | 🏗️ Data Architecture | 🏢 Enterprise Systems | 🚀 Continuous Learning
 
  </div>
+ <h2 align="center">Impact</h2>
 
-<div align="center"> 
-  <a href="https://www.instagram.com/duvanonthebeat/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&color=7743db&logo=instagram&logoColor=white" height="32" target="_blank"/>
-  </a>
-  <a href="mailto:duvan.vanegas741@pascualbravo.edu.co">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&color=7743db&logo=gmail&logoColor=white" height="32"/>
-  </a>
-  <a href="https://www.linkedin.com/in/duvan-vanegas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&color=7743db&logo=linkedin&logoColor=white" target="_blank" height="32"/>
-  </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=7743db&logo=" target="_blank" height="32"/> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<div align="center">
+
+📊 Designed and optimized data pipelines in healthcare environments  
+⚙️ Automated reporting processes improving operational efficiency  
+☁️ Implemented scalable cloud-based solutions on Microsoft Azure  
+🏗️ Built scalable architectures for enterprise systems  
+
 </div>
 
 <h2 align="center">Languages | Frameworks | Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,js,typescript,nodejs,github,cs,git,ps,xd&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,github,cs,git,ps,xd&theme=dark"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=pug,react,vscode,php,laravel,python,java,mysql,figma&theme=dark"/><br>
+    <img src="https://skillicons.dev/icons?i=azure,vscode,python,postgres,supabase,figma,notion,docker&theme=dark"/><br>
 </div>
 <br/>
+
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+
+🔹 <b>Contigo Antioquia – End-to-End Azure Data Platform</b>  
+Architected and deployed a scalable Azure-based data platform, including ingestion, transformation, storage, and orchestration layers. Enabled reliable healthcare analytics, secure data processing, and enterprise-level reporting.
+<br/><br/>
+🔹 <b>POS Application – React.js</b>  
+Developed a modern Point of Sale (POS) web application using React.js, focused on usability, performance, and scalable frontend architecture. Implemented dynamic UI components and optimized state management to enhance user experience and operational efficiency.
+
+</div>
 
 <h2 align="center">Stats</h2>
 
