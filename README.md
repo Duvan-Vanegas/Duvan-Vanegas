@@ -38,7 +38,7 @@
 <h2 align="center">Languages | Frameworks | Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,github,cs,git,ps,xd&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=react,js,typescript,nodejs,github,cs,git,ps,xd&theme=dark"/>
     <br>
     <img src="https://skillicons.dev/icons?i=pug,react,vscode,php,laravel,python,java,mysql,figma&theme=dark"/><br>
 </div>
