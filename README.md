@@ -37,9 +37,9 @@
 <h2 align="center">Languages | Frameworks | Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,github,cs,git,ps,xd&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=python,typescript,docker,cs,git,ps,xd,figma&theme=dark"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=azure,vscode,python,postgres,supabase,figma,notion,docker&theme=dark"/><br>
+    <img src="https://skillicons.dev/icons?i=azure,vscode,react,nodejs,github,postgres,supabase,notion&theme=dark"/><br>
 </div>
 <br/>
 
